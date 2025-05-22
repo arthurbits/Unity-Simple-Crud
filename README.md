@@ -31,3 +31,9 @@ dbName = "URI=file:" + Application.dataPath + "/StreammingAssets/dbDesabrocha.db
 
 * Por estar em uma pasta StreammingAssets o Unity traz esta pasta ao fazer o deploy.
 * Caso tenha problemas pode setar junto a pasta do executavel e utilizando o Application.persistentDataPath+"/nomeBancoDeDados.db"
+
+
+## Considerações Finais
+
+Mesmo sendo simples o exemplo tem uma certa dificuldade de encontrar alguns materiais específicos na internet e para chegar em algumas soluções, então,  precisamos sempre pegar um pouco de cada conteúdo e criar nossa propria solução. 
+O foco aqui foi apenas o exemplo mais simples que eu pude criar, por enquanto de um CRUD com banco de dados local.
